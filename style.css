@@ -1,0 +1,19 @@
+h1 {
+  color: darkmagenta;
+  text-align: center;
+}
+p {
+  color: green;
+}
+ol {
+  color: yellow;
+}
+div {
+  background-color: teal;
+  margin: 30px;
+  padding: 20px;
+  font-family: arial, sans-serif;
+  font-weight: bold;
+  font-size: 20px;
+  border: 5px dotted red;
+}
